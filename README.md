@@ -18,4 +18,7 @@ O que você encontrará no Euterpe Ware:
 No Euterpe Ware, a música é mais que um som — é uma experiência. Junte-se a nós e faça parte de uma comunidade apaixonada por música e inovação! 🎶
 ![logo Euterpe Ware](<docs/Desing/logo Euterpe ware.jpg>)
 
+## Figama/desing
 
+>No **Euterpe Ware**, utilizamos a plataforma **Figma** para criar e desenvolver o design do nosso site. Figma é uma ferramenta de design colaborativo e altamente eficiente, que nos permite trabalhar de forma dinâmica e integrada, garantindo que cada detalhe visual seja pensado para oferecer a melhor experiência ao usuário. Com o Figma, conseguimos criar interfaces intuitivas, responsivas e visualmente atraentes, alinhando estética e funcionalidade de forma fluida e moderna. A plataforma também facilita a colaboração em tempo real, permitindo que toda a equipe esteja sempre conectada, otimizando o processo criativo e garantindo a qualidade do nosso design.
+![Desing](<docs/Desing/Apresentação Euterpe Ware.jpg>)
