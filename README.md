@@ -22,3 +22,7 @@ No Euterpe Ware, a música é mais que um som — é uma experiência. Junte-se 
 
 >No **Euterpe Ware**, utilizamos a plataforma **Figma** para criar e desenvolver o design do nosso site. Figma é uma ferramenta de design colaborativo e altamente eficiente, que nos permite trabalhar de forma dinâmica e integrada, garantindo que cada detalhe visual seja pensado para oferecer a melhor experiência ao usuário. Com o Figma, conseguimos criar interfaces intuitivas, responsivas e visualmente atraentes, alinhando estética e funcionalidade de forma fluida e moderna. A plataforma também facilita a colaboração em tempo real, permitindo que toda a equipe esteja sempre conectada, otimizando o processo criativo e garantindo a qualidade do nosso design.
 ![Desing](<docs/Desing/Apresentação Euterpe Ware.jpg>)
+
+### Marcação âncora (hypertlink)
+
+>A marcação âncora (ou hyperlink) é uma ferramenta essencial na navegação da web, permitindo que os usuários se conectem a diferentes seções dentro de uma mesma página ou a outras páginas externas. Utilizando um simples clique, a marcação âncora direciona o visitante para um conteúdo específico, melhorando a acessibilidade e a experiência do usuário. Esse recurso é comumente usado em menus de navegação, botões e links de conteúdo, facilitando a locomoção dentro de sites e garantindo uma interação mais fluida e eficiente.
