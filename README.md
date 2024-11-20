@@ -26,3 +26,6 @@ No Euterpe Ware, a música é mais que um som — é uma experiência. Junte-se 
 ### Marcação âncora (hypertlink)
 
 >A marcação âncora (ou hyperlink) é uma ferramenta essencial na navegação da web, permitindo que os usuários se conectem a diferentes seções dentro de uma mesma página ou a outras páginas externas. Utilizando um simples clique, a marcação âncora direciona o visitante para um conteúdo específico, melhorando a acessibilidade e a experiência do usuário. Esse recurso é comumente usado em menus de navegação, botões e links de conteúdo, facilitando a locomoção dentro de sites e garantindo uma interação mais fluida e eficiente.
+
+#### Formulário HTML
+>O formulário em HTML é uma ferramenta essencial para a interação entre os usuários e o site, permitindo que os dados sejam coletados de maneira estruturada e eficiente. Ele é utilizado para diversos fins, como cadastro de usuários, envio de feedback, inscrições, compras online, entre outros. A importância do formulário reside na sua capacidade de tornar a navegação mais personalizada e funcional, além de garantir a comunicação direta entre o site e o visitante. Com a utilização de elementos como campos de texto, botões e validação, é possível proporcionar uma experiência intuitiva, organizada e segura, coletando informações relevantes para os processos de negócios ou serviços oferecidos na web.

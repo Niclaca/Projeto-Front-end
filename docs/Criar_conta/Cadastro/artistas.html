@@ -7,7 +7,57 @@
 </head>
 <body>
   <h1>Artistas</h1>
-  <div>
+  <form>
+     <fieldset>
+      <legend>Contato</legend>
+      <label for="name">Nome do artista ou banda:</label>
+             <input type="text" id="name" name="name" placeholder="Nome do artista ou banda" required><br><br>
+             <label for="email">E-mail:</label>
+             <input type="email" id="email" name="email" placeholder="Digite seu e-mail" required><br><br>
+             <label for="phone">Telefone:</label>
+             <input type="tel" id="phone" name="phone" placeholder="Digite seu telefone" pattern="[\+]?[0-9]{2}[0-9]{9}" required maxlength="14">
+     </fieldset><br><br>
+     <fieldset>
+      <legend>Usuário e senha</legend>
+      <label for="username">Nome de Usuário:</label>
+  <input type="text" id="username" name="username" placeholder="Escolha um nome de usuário" pattern="[A-Za-z0-9_]{3,20}" title="O nome de usuário deve ter entre 3 e 20 caracteres e pode conter apenas letras, números e underscores (_)" required><br><br>
+  <label for="password">Senha:</label>
+  <input type="password" id="password" name="password" placeholder="Crie uma senha" pattern="^(?=.*[A-Za-z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{8,}$" title="A senha deve ter pelo menos 8 caracteres, incluindo uma letra, um número e um caractere especial (@$!%*?&)" required><br><br>
+  <label for="confirm-password">Confirmar Senha:</label>
+  <input type="password" id="confirm-password" name="confirm-password" placeholder="Confirme sua senha" required>
+     </fieldset><br><br>
+     <fieldset>
+      <legend>Dados Complementários</legend>
+      <label for="music-genre">Gênero Musical:</label>
+  <select id="music-genre" name="music-genre" required>
+    <option value="">Selecione um gênero musical</option>
+    <option value="rock">Rock</option>
+    <option value="pop">Pop</option>
+    <option value="jazz">Jazz</option>
+    <option value="hip-hop">Hip-Hop</option>
+    <option value="eletronica">Eletrônica</option>
+    <option value="mpb">MPB</option>
+    <option value="classica">Clássica</option>
+    <option value="indie">Indie</option>
+    <option value="reggae">Reggae</option>
+    <option value="samba">Samba</option>
+    <option value="outros">Outro</option>
+  </select><br><br>
+
+  <label for="profile-photo">Foto de Perfil:</label>
+  <input type="file" id="profile-photo" name="profile-photo" accept="image/*" required><br><br>
+  <label for="biography">Biografia:</label><br><br>
+
+  <textarea id="biography" name="biography" rows="4" cols="50" placeholder="Conte-nos um pouco sobre você..." required></textarea><br><br>
+
+  <label for="music-link">Link para Música:</label><br>
+  <input type="url" id="music-link" name="music-link" placeholder="Insira o link para a música" required><br><br>
+  <label for="website">Website Oficial:</label><br>
+  <input type="url" id="website" name="website" placeholder="Insira o link para o website oficial" required>
+  
+     </fieldset>
+  </form>
+  <div><!--Link paara voltar ao cadastro principal-->
     <ul>
         <li><a href="../Pagina_cadastros.html">Cadastro</a></li>
     </ul>
