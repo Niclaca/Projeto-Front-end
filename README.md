@@ -29,3 +29,12 @@ No Euterpe Ware, a música é mais que um som — é uma experiência. Junte-se 
 
 #### Formulário HTML
 >O formulário em HTML é uma ferramenta essencial para a interação entre os usuários e o site, permitindo que os dados sejam coletados de maneira estruturada e eficiente. Ele é utilizado para diversos fins, como cadastro de usuários, envio de feedback, inscrições, compras online, entre outros. A importância do formulário reside na sua capacidade de tornar a navegação mais personalizada e funcional, além de garantir a comunicação direta entre o site e o visitante. Com a utilização de elementos como campos de texto, botões e validação, é possível proporcionar uma experiência intuitiva, organizada e segura, coletando informações relevantes para os processos de negócios ou serviços oferecidos na web.
+
+##### Css
+>O CSS (Cascading Style Sheets) é uma linguagem de estilo utilizada para definir a aparência e o layout de páginas web. Ele permite separar o conteúdo (HTML) da apresentação, facilitando a manutenção e tornando o código mais organizado. Com o CSS, é possível controlar aspectos como cores, fontes, espaçamento, alinhamento e até mesmo a disposição de elementos na tela, seja em formato de grid, flexbox ou outras técnicas. Além disso, o CSS permite a criação de animações e transições, oferecendo uma experiência interativa e dinâmica ao usuário. O uso adequado de CSS é fundamental para criar sites responsivos, que se adaptam a diferentes dispositivos e tamanhos de tela.
+
+###### Scss
+
+>O SCSS (Sassy CSS) é uma extensão do CSS que oferece recursos avançados para tornar a escrita de estilos mais eficiente e organizada. Ele faz parte do Sass, um pré-processador CSS, e permite o uso de funcionalidades como variáveis, aninhamento de regras, mixins e funções. Essas ferramentas ajudam a evitar a repetição de código, facilitando a manutenção e a criação de estilos mais complexos.
+
+Com o SCSS, é possível, por exemplo, definir variáveis para cores e fontes, o que facilita alterações globais no design de um site. O aninhamento permite criar regras de estilo hierárquicas, refletindo a estrutura do HTML de forma mais intuitiva. Além disso, o SCSS pode ser compilado para CSS, sendo totalmente compatível com qualquer navegador. A utilização do SCSS melhora a produtividade dos desenvolvedores, tornando o código mais modular e reutilizável.
