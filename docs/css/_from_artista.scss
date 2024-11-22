@@ -1,0 +1,122 @@
+
+
+/* Estilos do Formulário */
+form {
+    align-items:end;
+    display:inline-table;
+    justify-content: center;
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    width: 80%;
+    max-width: 600px;
+   
+}
+
+fieldset {
+    border: 2px solid #4CAF50;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+legend {
+    font-size: 1.5em;
+    color: #4CAF50;
+    font-weight: bold;
+}
+
+/* Estilo dos Labels */
+label {
+    font-size: 1.1em;
+    margin-bottom: 5px;
+    display: block;
+    color: #333;
+}
+
+/* Estilo dos Inputs */
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+input[type="password"],
+input[type="url"],
+textarea,
+select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    font-size: 1em;
+    color: #333;
+    background-color: #f9f9f9;
+    transition: border-color 0.3s ease;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="tel"]:focus,
+input[type="password"]:focus,
+input[type="url"]:focus,
+textarea:focus,
+select:focus {
+    border-color: #4CAF50;
+    outline: none;
+}
+
+textarea {
+    resize: vertical;
+}
+
+/* Estilo do botão */
+button {
+    width: 100%;
+    padding: 12px;
+    font-size: 1.2em;
+    color: white;
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+button:active {
+    background-color: #388e3c;
+}
+
+/* Estilo para campos obrigatórios */
+input[required] {
+    border-color: #ff6347;
+}
+
+input[required]:focus {
+    border-color: #ff6347;
+}
+
+/* Estilo para os campos de seleção */
+select {
+    font-size: 1em;
+    padding: 10px;
+    background-color: #f9f9f9;
+}
+
+/* Estilos responsivos */
+@media (max-width: 600px) {
+    form {
+        padding: 20px;
+    }
+
+    legend {
+        font-size: 1.3em;
+    }
+
+    button {
+        font-size: 1.1em;
+    }
+}

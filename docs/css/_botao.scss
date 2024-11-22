@@ -1,0 +1,22 @@
+.conteudo-principal-escrito-botao{
+    padding: 15px 30px;
+    background-color: #07351a;
+    color: white;
+    width: 180px;
+    height:60px;
+    border: none;
+    box-shadow: 4px 5px 4px rgba(0,0,0,0.25);
+    border-radius: 5px;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 500;
+    font-size: 1.2em;
+    cursor:pointer; 
+    transition: background-color 0.3s;
+}
+
+.conteudo-principal-escrito-botao:hover{
+    background-color: rgba(65, 151, 31, 0.979);
+
+}
+
+

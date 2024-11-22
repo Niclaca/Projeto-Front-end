@@ -1,28 +1,27 @@
-* {
-    box-sizing: border-box; 
-   }
-   body {
-     margin: 0;
-   }
-   main {
-     display: flex;
-     min-height: calc(100vh - 40vh);
-   }
-   main > article {
-     flex: 1;
-   }
-   main > nav, 
-   main > aside {
-     flex: 0 0 20vw;
-     background: beige;
-   }
-   main > nav {
-     order: -1;
-   }
-   header, footer, article, nav, aside {
-     padding: 1em;
-   }
-   header, footer {
-     background: yellowgreen;
-     height: 20vh;
-   }
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Dancing+Script:wght@400..700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Bebas+Neue&family=Dancing+Script:wght@400..700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    
+}
+
+@import'./body';
+
+@import'./cabecalho';
+
+@import './img';
+
+@import './conteudo';
+
+@import './rodape';
+
+@import './botao';
+
+@import './from_artista';
+
+
+
+ 
