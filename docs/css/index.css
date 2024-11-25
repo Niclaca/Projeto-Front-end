@@ -1,4 +1,3 @@
-@charset "UTF-8";
 @import url("https://fonts.googleapis.com/css2?family=Anton&family=Dancing+Script:wght@400..700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Anton&family=Bebas+Neue&family=Dancing+Script:wght@400..700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
 * {
@@ -39,7 +38,8 @@ body {
 }
 
 .cabecalho-img {
-  height: 45px;
+  height: auto;
+  width: 120px;
 }
 
 .rodape_img {
@@ -155,11 +155,12 @@ body {
   background-color: rgba(65, 151, 31, 0.979);
 }
 
-/* Estilos do Formulário */
 form {
-  align-items: end;
-  display: inline-table;
-  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5em;
+  width: 500px;
+  margin: 0 auto;
   background-color: white;
   padding: 30px;
   border-radius: 10px;
@@ -181,7 +182,6 @@ legend {
   font-weight: bold;
 }
 
-/* Estilo dos Labels */
 label {
   font-size: 1.1em;
   margin-bottom: 5px;
@@ -189,7 +189,6 @@ label {
   color: #333;
 }
 
-/* Estilo dos Inputs */
 input[type=text],
 input[type=email],
 input[type=tel],
@@ -223,7 +222,6 @@ textarea {
   resize: vertical;
 }
 
-/* Estilo do botão */
 button {
   width: 100%;
   padding: 12px;
@@ -237,14 +235,13 @@ button {
 }
 
 button:hover {
-  background-color: #45a049;
+  background-color: #0c4b0f;
 }
 
 button:active {
-  background-color: #388e3c;
+  background-color: #10d31a;
 }
 
-/* Estilo para campos obrigatórios */
 input[required] {
   border-color: #ff6347;
 }
@@ -253,22 +250,8 @@ input[required]:focus {
   border-color: #ff6347;
 }
 
-/* Estilo para os campos de seleção */
 select {
   font-size: 1em;
   padding: 10px;
   background-color: #f9f9f9;
-}
-
-/* Estilos responsivos */
-@media (max-width: 600px) {
-  form {
-    padding: 20px;
-  }
-  legend {
-    font-size: 1.3em;
-  }
-  button {
-    font-size: 1.1em;
-  }
 }/*# sourceMappingURL=index.css.map */
