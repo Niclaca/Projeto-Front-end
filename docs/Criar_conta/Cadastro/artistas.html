@@ -10,7 +10,6 @@
 <body>
   <header class="cabecalho"> 
             <a href="../../index.html" class="cabecalho-menu-item">Inicio</a>      
-    </nav>
 </header>
 
 <form id="form">
@@ -18,23 +17,23 @@
 	 <legend>Contato</legend>
    <h1>Artista</h1><br>
 	 <label for="name">Nome do artista ou banda:</label>
-			<input type="text" id="name" name="name" placeholder="Nome do artista ou banda" <br><br>
+			<input type="text" id="name" name="name" placeholder="Nome do artista ou banda" 
 			<label for="email">E-mail:</label>
-			<input type="email" id="email" name="email" placeholder="Digite seu e-mail" <br><br>
+			<input type="email" id="email" name="email" placeholder="Digite seu e-mail"> 
 			
       <label for="phone">Telefone:</label>
 			<input type="tel" id="phone" name="phone" placeholder="Digite seu telefone" pattern="[\+]?[0-9]{2}[0-9]{9}"  maxlength="14">
-	</fieldset><br><br>
+	</fieldset>
 	<fieldset>
 	 <legend>Usuário e senha</legend>
 	 <label for="username">Nome de Usuário:</label>
- <input type="text" id="username" name="username" placeholder="Escolha um nome de usuário" pattern="[A-Za-z0-9_]{3,20}" title="O nome de usuário deve ter entre 3 e 20 caracteres e pode conter apenas letras, números e underscores (_)" ><br><br>
+ <input type="text" id="username" name="username" placeholder="Escolha um nome de usuário" pattern="[A-Za-z0-9_]{3,20}" title="O nome de usuário deve ter entre 3 e 20 caracteres e pode conter apenas letras, números e underscores (_)" >
  
  <label for="password">Senha:</label>
- <input type="password" id="password" name="password" placeholder="Crie uma senha" pattern="^(?=.*[A-Za-z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{8,}$" title="A senha deve ter pelo menos 8 caracteres, incluindo uma letra, um número e um caractere especial (@$!%*?&)" ><br><br>
+ <input type="password" id="password" name="password" placeholder="Crie uma senha" pattern="^(?=.*[A-Za-z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{8,}$" title="A senha deve ter pelo menos 8 caracteres, incluindo uma letra, um número e um caractere especial (@$!%*?&)" >
  <label for="confirm-password">Confirmar Senha:</label>
  <input type="password" id="confirm-password" name="confirm-password" placeholder="Confirme sua senha" >
-	</fieldset><br><br>
+	</fieldset>
 	<fieldset>
 	 <legend>Dados Complementários</legend>
 	 <label for="music-genre">Gênero Musical:</label>
@@ -51,17 +50,17 @@
    <option value="reggae">Reggae</option>
    <option value="samba">Samba</option>
    <option value="outros">Outro</option>
- </select><br><br>
+ </select>
 
  <label for="profile-photo">Foto de Perfil:</label>
- <input type="file" id="profile-photo" name="profile-photo" accept="image/*"><br><br>
- <label for="biography">Biografia:</label><br><br>
+ <input type="file" id="profile-photo" name="profile-photo" accept="image/*">
+ <label for="biography">Biografia:</label>
 
- <textarea id="biography" name="biography" rows="4" cols="50" placeholder="Conte-nos um pouco sobre você..." ></textarea><br><br>
+ <textarea id="biography" name="biography" rows="4" cols="50" placeholder="Conte-nos um pouco sobre você..." ></textarea>
 
- <label for="music-link">Link para Música:</label><br>
+ <label for="music-link">Link para Música:</label>
  <input type="url" id="music-link" name="music-link" placeholder="Insira o link para a música" ><br><br>
- <label for="website">Website Oficial:</label><br>
+ <label for="website">Website Oficial:</label>
  <input type="url" id="website" name="website" placeholder="Insira o link para o website oficial" >
 	<button type="submit">Enviar</button>
 </fieldset>
