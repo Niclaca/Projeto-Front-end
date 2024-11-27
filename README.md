@@ -1,4 +1,5 @@
 # Euterpe Ware
+>>criadores: Nicolas Cala, Julia Aisha e Beatriz Balcari.
 
 >Euterpe Ware
 Uma plataforma digital dedicada à música e criatividade.
@@ -16,7 +17,7 @@ O que você encontrará no Euterpe Ware:
     Notícias e tendências: Fique atualizado sobre o que está acontecendo no mundo da música, desde novos lançamentos até eventos ao vivo.
 
 No Euterpe Ware, a música é mais que um som — é uma experiência. Junte-se a nós e faça parte de uma comunidade apaixonada por música e inovação! 🎶
-![logo Euterpe Ware](<docs/Desing/logo Euterpe ware.jpg>)
+![logo Euterpe Ware](<docs/Desing/ideia_Euterpe.png>)
 
 ## Figama/desing
 
