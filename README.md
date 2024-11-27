@@ -39,3 +39,28 @@ No Euterpe Ware, a música é mais que um som — é uma experiência. Junte-se 
 >O SCSS (Sassy CSS) é uma extensão do CSS que oferece recursos avançados para tornar a escrita de estilos mais eficiente e organizada. Ele faz parte do Sass, um pré-processador CSS, e permite o uso de funcionalidades como variáveis, aninhamento de regras, mixins e funções. Essas ferramentas ajudam a evitar a repetição de código, facilitando a manutenção e a criação de estilos mais complexos.
 
 Com o SCSS, é possível, por exemplo, definir variáveis para cores e fontes, o que facilita alterações globais no design de um site. O aninhamento permite criar regras de estilo hierárquicas, refletindo a estrutura do HTML de forma mais intuitiva. Além disso, o SCSS pode ser compilado para CSS, sendo totalmente compatível com qualquer navegador. A utilização do SCSS melhora a produtividade dos desenvolvedores, tornando o código mais modular e reutilizável.
+
+###### WEB RESPONSIVA E MOBILE FIRST
+
+>**Texto para um site responsivo e "mobile first":**
+
+---
+
+**Euterpe - Sua Jornada Musical Começa Aqui**
+
+No **Euterpe**, a música é a nossa paixão, e queremos que você tenha a melhor experiência, não importa onde esteja. Nosso site foi projetado pensando em você, seja no computador, tablet ou celular. Com um layout **responsivo** e **mobile-first**, você pode acessar tudo o que oferecemos de forma rápida e fácil, a qualquer hora e em qualquer lugar.
+
+**Por que "mobile first"?**  
+Porque sabemos que o seu tempo é valioso. Com cada vez mais pessoas acessando a internet via dispositivos móveis, a **Euterpe** garante uma navegação fluida e intuitiva, otimizada para telas menores, sem perder a qualidade do conteúdo. Navegue por **notícias**, **resenhas de álbuns**, **entrevistas** com artistas, e muito mais, com um clique.
+
+**Funcionalidade e design que se adaptam ao seu estilo de vida**  
+Com uma interface moderna e ágil, nosso site ajusta-se automaticamente ao tamanho da tela, oferecendo uma experiência impecável seja em uma tela de smartphone ou em um desktop de última geração. Tudo isso para que você se concentre no que realmente importa: a música.
+
+**Explore o universo musical em sua palma**  
+No **Euterpe**, você encontra tudo o que precisa para se manter atualizado sobre o mundo da música. E o melhor: de forma simples, rápida e prática. Pronto para embarcar nessa jornada sonora? Vamos juntos!
+
+---
+
+Este texto foi elaborado para enfatizar a flexibilidade e acessibilidade do design responsivo e "mobile first", tornando o site Euterpe mais acessível e funcional para todos os tipos de dispositivos.
+###### Usamos Javascript
+>**JavaScript** é uma linguagem de programação essencial para o desenvolvimento web moderno. Ela permite adicionar interatividade e dinamicidade às páginas da web, tornando-as mais interativas e atraentes. Com o JavaScript, é possível criar funcionalidades como animações, validação de formulários, mudanças dinâmicas de conteúdo e até mesmo jogos e aplicativos completos no navegador. Ele é executado diretamente no navegador do usuário, o que faz com que as páginas carreguem mais rapidamente e ofereçam uma experiência mais fluida. Amplamente utilizado em conjunto com HTML e CSS, o JavaScript é fundamental para o desenvolvimento de sites e aplicações web modernas.
